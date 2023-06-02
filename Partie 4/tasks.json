@@ -1,0 +1,2 @@
+data = '[{"task" : "RDV Sheldon", "date" : "02/06/2022", "category" : "Tâche professionnelle"}, {"task" : "RDV Bernadette", "date" : "03/06/2022", "category" : "Tâche professionnelle"}, {"task" : "Fêtes des voisins", "date" : "20/05/2022", "category" : "Tâche partagée"}, {"task": "I love Okita Souji", "date":"30/05/2002","category":"Tâche Personnelle"}]';
+
